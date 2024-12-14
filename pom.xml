@@ -37,7 +37,7 @@
   </dependencies>
 
   <build>
-    <finalName>shopsy_app</finalName>
+    <finalName>shopsy_app_repo</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
